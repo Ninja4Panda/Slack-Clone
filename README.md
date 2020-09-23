@@ -1,3 +1,3 @@
-# COMP1531 Major Project
+# Slack Clone
 
 Creating a communication platform(slack) with python using flask 
